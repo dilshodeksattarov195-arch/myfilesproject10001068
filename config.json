@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productuync",
+        "uuid": 2849424,
+        "checksum": "noq36"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
